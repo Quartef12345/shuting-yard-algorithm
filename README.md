@@ -66,4 +66,4 @@ abs(-7)+1
 
 ## About
 
-Built at 15 years old, just a few months after learning Python — on a calculator. No tutorials, no teachers, no frameworks. Just curiosity, wikipedia, trial and error, figuring out how a parser works from the ground up.
+Built at 15 years old, just a few months after learning Python. No tutorials, no teachers, no frameworks. Just wikipedia, trial and error.
